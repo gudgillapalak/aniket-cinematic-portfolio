@@ -29,10 +29,10 @@ export const media = {
 
   // Videos section — cinematography, edits, and post-production selects.
   videos: [
-    { title: "Video1", category: "", year: "", video: "public/assets/videos/cinematography/Video1.mp4" },
-    { title: "Video2", category: "", year: "", video: "public/assets/videos/cinematography/Video2.mp4" },
-    { title: "Video3", category: "", year: "", video: "public/assets/videos/cinematography/Video3.mp4" },
-    { title: "Video4", category: "", year: "", video: "public/assets/videos/cinematography/Video4.mp4" },
+    { title: "Video1", category: "", year: "", video: "assets/videos/cinematography/Video1.mp4" },
+    { title: "Video2", category: "", year: "", video: "assets/videos/cinematography/Video2.mp4" },
+    { title: "Video3", category: "", year: "", video: "assets/videos/cinematography/Video3.mp4" },
+    { title: "Video4", category: "", year: "", video: "assets/videos/cinematography/Video4.mp4" },
     // { title: "", category: "", year: "", video: "/assets/videos/cinematography/...",
     //   thumbnail: "/assets/images/thumbnails/..." },
   ],

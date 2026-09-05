@@ -1,0 +1,68 @@
+:root {
+  /* =========================================
+     PURE CINEMATIC BLUE
+     NO PURPLE / NO BURGUNDY
+     ========================================= */
+
+  --bg:        #070B10;
+  --bg-alt:    #0B1219;
+  --bg-raised: #111D28;
+
+  --fg:        #F3F6F8;
+  --muted:     #9BAFBE;
+  --muted-dim: #627889;
+
+  --line:      #1D3546;
+
+  /* Main blue */
+  --accent-gold:      #3D9FD1;
+  --accent-gold-dim:  #286F96;
+
+  --accent-amber:     #3D9FD1;
+  --accent-amber-dim: #286F96;
+
+  /* Bright blue */
+  --accent-teal:        #35C4EA;
+  --accent-teal-bright: #65D9F5;
+
+  /* Steel */
+  --accent-slate:        #4E7185;
+  --accent-slate-bright: #7899AA;
+
+  /* Secondary */
+  --accent-rose:        #3B6276;
+  --accent-rose-bright: #91B4C5;
+
+  --danger: #3B6276;
+
+  /* Typography */
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-serif:   "Cormorant Garamond", Georgia, serif;
+  --font-body:    "Cormorant Garamond", Georgia, serif;
+  --font-mono:    "IBM Plex Mono", "Courier New", monospace;
+
+  /* Spacing */
+  --space-1: 0.4rem;
+  --space-2: 0.8rem;
+  --space-3: 1.6rem;
+  --space-4: 2.4rem;
+  --space-5: 4rem;
+  --space-6: 6.4rem;
+  --space-7: 10rem;
+
+  --radius: 2px;
+
+  /* Motion */
+  --ease-cinematic: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast: 0.3s;
+  --dur-med:  0.6s;
+  --dur-slow: 1.2s;
+
+  --max-width: 1600px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    /* Intentionally dark regardless of system scheme. */
+  }
+}

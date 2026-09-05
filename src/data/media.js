@@ -45,18 +45,18 @@ export const media = {
 
   // Frames section — stills / photography.
   frames: [
-    { title: "Frame1", category: "", year: "", image: "public/assets/images/frames/Frame1.jpeg" },
-    { title: "Frame2", category: "", year: "", image: "public/assets/images/frames/Frame2.jpeg" },
-    { title: "Frame3", category: "", year: "", image: "public/assets/images/frames/Frame3.jpeg" },
-    { title: "Frame4", category: "", year: "", image: "public/assets/images/frames/Frame4.jpeg" },
-    { title: "Frame5", category: "", year: "", image: "public/assets/images/frames/Frame5.jpeg" },
-    { title: "Frame6", category: "", year: "", image: "public/assets/images/frames/Frame6.jpeg" },
-    { title: "Frame7", category: "", year: "", image: "public/assets/images/frames/Frame7.jpeg" },
-    { title: "Frame8", category: "", year: "", image: "public/assets/images/frames/Frame8.jpeg" },
-    { title:"Frame9", category: "", year: "", image: "public/assets/images/frames/Frame9.jpeg" },
-    { title: "Frame10", category: "", year: "", image: "public/assets/images/frames/Frame10.jpeg"},
-    { title: "Frame11", category: "", year: "", image: "public/assets/images/frames/Frame11.jpeg" },
-    { title: "Frame12", category: "", year: "", image: "public/assets/images/frames/Frame12.jpeg" },
+    { title: "Frame1", category: "", year: "", image: "/assets/images/frames/Frame1.jpeg" },
+    { title: "Frame2", category: "", year: "", image: "/assets/images/frames/Frame2.jpeg" },
+    { title: "Frame3", category: "", year: "", image: "/assets/images/frames/Frame3.jpeg" },
+    { title: "Frame4", category: "", year: "", image: "/assets/images/frames/Frame4.jpeg" },
+    { title: "Frame5", category: "", year: "", image: "/assets/images/frames/Frame5.jpeg" },
+    { title: "Frame6", category: "", year: "", image: "/assets/images/frames/Frame6.jpeg" },
+    { title: "Frame7", category: "", year: "", image: "/assets/images/frames/Frame7.jpeg" },
+    { title: "Frame8", category: "", year: "", image: "/assets/images/frames/Frame8.jpeg" },
+    { title:"Frame9", category: "", year: "", image: "/assets/images/frames/Frame9.jpeg" },
+    { title: "Frame10", category: "", year: "", image: "/assets/images/frames/Frame10.jpeg"},
+    { title: "Frame11", category: "", year: "", image: "/assets/images/frames/Frame11.jpeg" },
+    { title: "Frame12", category: "", year: "", image: "/assets/images/frames/Frame12.jpeg" },
     
     
     
